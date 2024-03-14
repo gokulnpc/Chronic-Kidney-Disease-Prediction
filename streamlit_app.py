@@ -146,13 +146,9 @@ elif options == 'Code':
 
     st.header('GitHub Repository')
     st.write('You can view the code and the dataset used in this web app from the GitHub repository:')
-    st.write('[GitHub Repository](https://github.com/gokulnpc/)')
+    st.write('[GitHub Repository](https://github.com/gokulnpc/Chronic-Kidney-Disease-Prediction)')
     st.write('--'*50)
 
-    st.header('Google Colab')
-    st.write('You can view the code and the model building process in a Google Colab notebook:')
-    st.write('[Google Colab](https://colab.research.google.com/drive/1brfnxPsjH4GSY3RL1RG_UvZiCCLL-xJ3?usp=sharing)')
-    
 elif options == 'About':
     st.title('About')
     st.write('This we app is created to predict the chronic kidney disease using the data from the UCI Machine Learning Repository.')
@@ -161,7 +157,7 @@ elif options == 'About':
     st.write('--'*50)
 
     st.write('The web app is open-source. You can view the code and the dataset used in this web app from the GitHub repository:')
-    st.write('[GitHub Repository](https://github.com/gokulnpc/)')
+    st.write('[GitHub Repository](https://github.com/gokulnpc/Chronic-Kidney-Disease-Prediction)')
     st.write('--'*50)
 
     st.header('Contact')
